@@ -1,6 +1,8 @@
 # PODCAST-PIX-API-COBV
 Projeto Podcast Gerado por IAs - Bootcamp CAIXA coding-the-future-ia-generativa-microsoft-copilot 
-![image](https://github.com/user-attachments/assets/739f3acf-ea12-4523-9379-fe2949c5a5df)
+
+![podcastpix](https://github.com/user-attachments/assets/011f606e-7bfe-4532-bd07-5c083347f7ed)
+
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.
 
